@@ -7,14 +7,17 @@ Contacto:
 ##FLOSS-PA
 Contacto:
 
-##Fedora Panama
+##Fedora Panamá
 Contacto:
 
-##FSL Panama
+##FSL Panamá
 Contacto:
 
 ##CoworkingPTY
 Contacto:
 
 ##CascoStation
+Contacto:
+
+##Universidad de Panamá CRU Azuero
 Contacto:
