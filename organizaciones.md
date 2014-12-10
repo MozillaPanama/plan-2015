@@ -7,10 +7,10 @@ Contacto:
 ##FLOSS-PA
 Contacto:
 
-##Fedora Panama
+##Fedora Panamá
 Contacto:
 
-##FSL Panama
+##FSL Panamá
 Contacto:
 
 ##CoworkingPTY
@@ -22,4 +22,3 @@ Contacto:
 ##Universidad de Panama CRU Azuero
 [http://www.up.ac.pa/PortalUp/cru_Azuero.aspx?submenu=222](http://www.up.ac.pa/PortalUp/cru_Azuero.aspx?submenu=222)
 
-Contacto:
