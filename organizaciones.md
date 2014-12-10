@@ -20,5 +20,5 @@ Contacto:
 Contacto:
 
 ##Universidad de Panamá CRU Azuero
-(http://www.up.ac.pa/PortalUp/cru_Azuero.aspx?submenu=222)[http://www.up.ac.pa/PortalUp/cru_Azuero.aspx?submenu=222]
+[http://www.up.ac.pa/PortalUp/cru_Azuero.aspx?submenu=222](http://www.up.ac.pa/PortalUp/cru_Azuero.aspx?submenu=222)
 Contacto:
