@@ -9,7 +9,7 @@
 
 ##Abril
 * MozCafé
-* FLISOL (Se necesita hablar con los organizadores del FLISOL tanto en Panamá como en provincias centrales para lograr un espacio en el mismo)
+* FLISOL
 * NASA Space Apps Challenge
 
 ##Mayo
