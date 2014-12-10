@@ -17,7 +17,8 @@
 
 ##Junio
 * MozCafé
-* ¿Concurso para Logo Oficial de Mozilla Panamá?
+* Celebración 1er.  año de Mozilla Panamá
+* Premiación concurso para Logo Oficial de Mozilla Panamá
 
 ##Julio
 * MozCafé
