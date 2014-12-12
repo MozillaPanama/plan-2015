@@ -6,7 +6,7 @@ Comunidades, empresas e instituciones con las que participamos o colaboramos en 
 Contacto:
 
 ##FLOSS-PA
-
+i
 Contacto:
 
 ##Fedora Panamá
@@ -30,3 +30,18 @@ Contacto:
 
 Contacto:
 
+##UTP Santiago
+
+Contacto:
+
+##Universidad del Istmo
+
+Contacto:
+
+##GeoCensos
+
+Contacto:
+
+##Telefónica Movistar Panamá 
+
+Contacto:
