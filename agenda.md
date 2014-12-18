@@ -9,7 +9,9 @@
 
 ##Abril
 * MozCafé
-* FLISOL
+* FLISOL FSL - 4to. Sábado de Abril  (2014/04/25)
+* FLISOL Santiago (Mozilla Panamá) - 4to. Sábado de Abril  (2014/04/25)
+* FLISOL Panamá (FlossPA) - 4to. Sábado de Abril  (2014/04/25)
 * NASA Space Apps Challenge
 
 ##Mayo
