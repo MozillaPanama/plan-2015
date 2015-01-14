@@ -40,7 +40,8 @@
 ##Octubre
 * MozCafé
 * Concurso temas Firefox motivos de Panamá y Fechas Patrias
-* MozFest
+* MozFest (En el marco de ECSL 2015)
+* ECSL 2015 (San Pedro Sula - Honduras)
 
 ##Noviembre
 * MozCafé
